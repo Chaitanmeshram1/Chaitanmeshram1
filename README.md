@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chaitanmeshram1
 -     I'm First year ug at nit-bhopal, India
-- 👀 I’m interested in ...codeing and contributing in organisations
+- 👀 I’m interested in ...codeing and programming
 - 🌱 I’m currently learning ...DSA using python
-- 💞️ I’m looking to collaborate on ... projects using python that can help in improvoing my codeing knowledge
+- 💞️ I’m looking to collaborate on ... programming related work and projects using python that can help in improvoing my codeing knowledge
 - 📫 You can me ...
       email : chaitanmeshram547@outlook.com
       instagram : Chaitanmeshram1
